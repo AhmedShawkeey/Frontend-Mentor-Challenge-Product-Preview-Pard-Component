@@ -1,5 +1,9 @@
 # Frontend Mentor - Product preview card component
 
+## Preview 👀 
+[https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Product-Preview-Pard-Component/
+](https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Product-Preview-Pard-Component/)
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
