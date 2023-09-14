@@ -3,6 +3,8 @@
 ## Preview 👀 [https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Product-Preview-Pard-Component/
 ](https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Product-Preview-Pard-Component/)
 
+## Solution Link [https://www.frontendmentor.io/solutions/solved-with-css-flex-box-Egm7h4CAQw](https://www.frontendmentor.io/solutions/solved-with-css-flex-box-Egm7h4CAQw)
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
